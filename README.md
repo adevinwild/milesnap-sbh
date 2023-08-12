@@ -1,6 +1,7 @@
 # milesnap
-
 > A Supabase Hackathon Submission
+
+<img src="./.assets/milesnap.gif" alt="demo" width="400" height="400">
 
 ## Description
 Milesnap is a web application that lets users celebrate and showcase their milestones through videos. Create and share a video highlighting your achievements with ease!
